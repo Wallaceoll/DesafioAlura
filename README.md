@@ -1,4 +1,6 @@
 #Criptografia de Textos#
+
+
 Esta aplicação web criptografa e descriptografa textos para permitir a troca de mensagens secretas. A criptografia é feita substituindo certas letras por palavras específicas, conforme as regras abaixo:
 
 "e" -> "enter"
